@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  padding: 2rem;
+}
+
+.App {
+  font-family: serif;
+}
+
+.odd-input {
+  width: 12rem;
+  margin: 0 0.35em;
+  vertical-align: middle;
+}
+
+.mainClass {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.mainClass input[type='checkbox'] {
+  margin-left: 0.35em;
+  vertical-align: middle;
+}
